@@ -8,4 +8,4 @@
 Xとnoteを中心に更新中。
 
 
-YouTube追加しました
+YouTubeも追加しました。
