@@ -16,6 +16,6 @@ note
 https://note.com/haniolog
 
 YouTube  
-https://www.youtube.com/@laniolog
+https://www.youtube.com/@haniolog
 
 FAQや活動まとめは随時更新しています。
