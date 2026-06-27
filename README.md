@@ -1,21 +1,47 @@
-# haniolog
+# はにおろぐ
 
-記録と思考整理。
+記録と思考整理のログ。
 
-日々の気づきを、「はにおろぐ」として残しています。
+システムエンジニアとしての日々の気づきや、情報整理・思考の可視化を目的に「はにおろぐ」として発信しています。
 
-Xとnoteを中心に更新中。  
-YouTubeも追加しました。
+---
+
+## 活動内容
+
+- 日々の気づき・思考整理の記録  
+- 情報整理・問題解決プロセスの可視化  
+- エンジニアとしての学びのログ化  
+- 記録を通じた思考の外部化  
+
+---
+
+## 更新コンテンツ
+
+- note：記事更新（思考整理・情報整理など）  
+- X：短い気づき・日常ログ  
+- YouTube：動画記録・実験的投稿  
+- GitHub：コード・試作・作業ログ  
+
+---
 
 ## Links
 
 X  
-https://x.com/haniolog
+https://x.com/haniolog  
 
 note  
-https://note.com/haniolog
+https://note.com/haniolog  
 
 YouTube  
-https://www.youtube.com/@haniolog
+https://www.youtube.com/@haniolog  
 
-FAQや活動まとめは随時更新しています。
+GitHub  
+https://github.com/haniolog  
+
+---
+
+## Purpose
+
+思考を「残す」ことで、後から見返せる形にするためのログ。
+
+整理されていない状態も含めて記録することで、思考の変化そのものを可視化する。
