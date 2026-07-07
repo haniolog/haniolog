@@ -45,3 +45,11 @@ https://github.com/haniolog
 思考を「残す」ことで、後から見返せる形にするためのログ。
 
 整理されていない状態も含めて記録することで、思考の変化そのものを可視化する。
+
+## Note Articles
+
+- 現場で役立つコミュニケーション術
+  https://note.com/haniolog/n/n424dfaed0d36
+
+- 要件定義で大切なこと
+  https://note.com/haniolog/n/n8cb9d158c294
