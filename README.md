@@ -48,10 +48,7 @@ https://github.com/haniolog
 
 ## Note Articles
 
-- 現場で役立つコミュニケーション術
-  https://note.com/haniolog/n/n424dfaed0d36
-
-- 要件定義で大切なこと
-  https://note.com/haniolog/n/n8cb9d158c294
+- 詳細設計とは何をする工程なのか？
+https://note.com/haniolog/n/n0155748b7d97?sub_rt=share_pb
 
 -  基本設計とは何をする工程なのかhttps://note.com/haniolog/n/n3e9aa0b369e3?sub_rt=share_b
