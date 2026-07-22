@@ -51,4 +51,5 @@ https://github.com/haniolog
 - 現場で役立つコミュニケーション術
 https://note.com/haniolog/n/n7cf58768c281
 
--  基本設計とは何をする工程なのかhttps://note.com/haniolog/n/n3e9aa0b369e3?sub_rt=share_b
+-  犬は同じ道でも飽きない
+   https://note.com/haniolog/n/n8ab394a422f6?sub_rt=share_pb
