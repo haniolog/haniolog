@@ -48,8 +48,9 @@ https://github.com/haniolog
 
 ## Note Articles
 
-- 現場で役立つコミュニケーション術
-https://note.com/haniolog/n/n7cf58768c281
+- なぜコードを書く前の5分が開発効率を上げるの
+  か
+  https://note.com/haniolog/n/n5db1d26f8830
 
 -  プログラミングでミスが減る人は「書く前の整理」をしている
    https://note.com/haniolog/n/naecfe2330062
