@@ -54,3 +54,7 @@ https://github.com/haniolog
 
 -  プログラミングでミスが減る人は「書く前の整理」をしている
    https://note.com/haniolog/n/naecfe2330062
+
+運用・保守とは何をする仕事なのか？｜システムは完成してからが本番
+
+https://note.com/haniolog/n/n661a65e0c968
