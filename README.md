@@ -52,5 +52,5 @@ https://github.com/haniolog
   か
   https://note.com/haniolog/n/n5db1d26f8830
 
-プログラミング工程とは何をする工程なのか？
+- プログラミング工程とは何をする工程なのか？
 https://note.com/haniolog/n/naf4307c775a9
