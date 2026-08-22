@@ -48,9 +48,8 @@ https://github.com/haniolog
 
 ## Note Articles
 
-- なぜコードを書く前の5分が開発効率を上げるの
-  か
-  https://note.com/haniolog/n/n5db1d26f8830
+- システムエンジニアとは何をする仕事なのか？
+https://note.com/haniolog/n/na6d60b568531
 
 - プログラミング工程とは何をする工程なのか？
 https://note.com/haniolog/n/naf4307c775a9
