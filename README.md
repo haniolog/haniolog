@@ -51,5 +51,5 @@ https://github.com/haniolog
 - システムエンジニアとは何をする仕事なのか？
 https://note.com/haniolog/n/na6d60b568531
 
-- プログラミング工程とは何をする工程なのか？
-https://note.com/haniolog/n/naf4307c775a9
+- システム開発の上流工程とは何をするのか？｜開発前に決める仕事の重要性
+https://note.com/haniolog/n/n0fce99772119
