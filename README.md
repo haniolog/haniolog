@@ -51,5 +51,4 @@ https://github.com/haniolog
 - システムエンジニアとは何をする仕事なのか？
 https://note.com/haniolog/n/na6d60b568531
 
-- システム開発の上流工程とは何をするのか？｜開発前に決める仕事の重要性
-https://note.com/haniolog/n/n0fce99772119
+- システム開発のテスト工程とは何をするのか？｜不具合を見つけるだけではない重要な仕事｜はにおろぐ https://note.com/haniolog/n/n0e046c077596?sub_rt=share_pb
