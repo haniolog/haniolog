@@ -51,4 +51,4 @@ https://github.com/haniolog
 - システムエンジニアとは何をする仕事なのか？
 https://note.com/haniolog/n/na6d60b568531
 
-- システム開発のテスト工程とは何をするのか？｜不具合を見つけるだけではない重要な仕事｜はにおろぐ https://note.com/haniolog/n/n0e046c077596?sub_rt=share_pb
+  PMOとは何をする仕事なのか？｜プロジェクトを支える役割を分かりやすく解説｜はにおろぐ  https://note.com/haniolog/n/n67f251d6d621?sub_rt=share_b
