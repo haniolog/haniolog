@@ -48,7 +48,6 @@ https://github.com/haniolog
 
 ## Note Articles
 
-- システムエンジニアとは何をする仕事なのか？
-https://note.com/haniolog/n/na6d60b568531
+- https://note.com/haniolog/n/n02126e5dcfe9
 
   PMOとは何をする仕事なのか？｜プロジェクトを支える役割を分かりやすく解説｜はにおろぐ  https://note.com/haniolog/n/n67f251d6d621?sub_rt=share_b
