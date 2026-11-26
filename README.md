@@ -1,53 +1,12 @@
-# はにおろぐ
-
-記録と思考整理のログ。
-
-システムエンジニアとしての日々の気づきや、情報整理・思考の可視化を目的に「はにおろぐ」として発信しています。
-
----
-
-## 活動内容
-
-- 日常の気づき・思考整理の記録  
-- 情報整理・問題解決プロセスの可視化  
-- エンジニアとしての学びのログ化  
-- 記録を通じた思考の外部化  
-
----
-
-## 更新コンテンツ
-
-- note：記事更新（思考整理・情報整理など）  
-- X：短い気づき・犬との日常ログ  
-- YouTube：犬との動画記録・実験的投稿  
-- GitHub：コード・試作・作業ログ  
-
----
-
-## Links
-
-X  
-https://x.com/haniolog  
-
-note  
-https://note.com/haniolog  
-
-YouTube  
-https://www.youtube.com/@haniolog  
-
-GitHub  
-https://github.com/haniolog  
-
----
-
-## Purpose
-
-思考を「残す」ことで、後から見返せる形にするためのログ。
-
-整理されていない状態も含めて記録することで、思考の変化そのものを可視化する。
-
-## Note Articles
-
-- https://note.com/haniolog/n/n02126e5dcfe9
-
-  PMOとは何をする仕事なのか？｜プロジェクトを支える役割を分かりやすく解説｜はにおろぐ  https://note.com/haniolog/n/n67f251d6d621?sub_rt=share_b
+活動内容
+草花の栽培・育成
+花壇づくり・ガーデンデザイン
+季節ごとの植物の管理
+ガーデニングに関する知識の整理
+花や庭の写真・観察記録
+Links
+note：https://note.com/haniolog
+X：https://x.com/haniolog
+Purpose
+花や植物の魅力を伝え、自然と調和した庭づくりを探求すること。
+日々の経験や学びを記録し、ガーデニングの知識を深めていきます。
