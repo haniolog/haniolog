@@ -12,7 +12,6 @@
 
 - [note](https://note.com/haniolog)
 - [X](https://x.com/haniolog)
-- 
 
 ---
 
