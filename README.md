@@ -12,7 +12,7 @@
 
 - [note](https://note.com/haniolog)
 - [X](https://x.com/haniolog)
-- [YouTube](https://www.youtube.com/@haniolog)
+- 
 
 ---
 
